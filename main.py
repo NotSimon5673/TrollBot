@@ -8,7 +8,7 @@ from discord.ext import commands
 intents = discord.Intents.default()
 client = discord.Client(intents=intents)
 tree = app_commands.CommandTree(client)
-token = "MTA1NTE5MzAxODQyMjAxNDAxNA.Gs0eAQ.10Ag1FQtH96sdGV2PduqeTRB25GmKuZ5McHamw"
+token = ""
 
 
 
